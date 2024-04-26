@@ -15,7 +15,7 @@ Sobrenome varchar(200) NOT NULL,
 CONSTRAINT fk_idCurso FOREIGN KEY(idCurso) REFERENCES tblCurso(idCurso)
 );
 
-INSERT INTO tblCurso VALUES ('Psicologia');
+INSERT INTO tblCurso VALUES ('C#');
 INSERT INTO tblAluno VALUES ('Yasmin','Vargas',1);
 
 SELECT * FROM tblCurso;
