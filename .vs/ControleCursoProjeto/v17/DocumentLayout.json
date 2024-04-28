@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ControleCursoProjeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C477B2A-C353-4F63-9BD5-EC5EFB9463CE}|ControleCurso\\ControleCurso.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\controlecursoprojeto\\controlecurso\\views\\curso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C477B2A-C353-4F63-9BD5-EC5EFB9463CE}|ControleCurso\\ControleCurso.csproj|solutionrelative:controlecurso\\views\\curso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C477B2A-C353-4F63-9BD5-EC5EFB9463CE}|ControleCurso\\ControleCurso.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\controlecursoprojeto\\controlecurso\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{9C477B2A-C353-4F63-9BD5-EC5EFB9463CE}|ControleCurso\\ControleCurso.csproj|solutionrelative:controlecurso\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C477B2A-C353-4F63-9BD5-EC5EFB9463CE}|ControleCurso\\ControleCurso.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\controlecursoprojeto\\controlecurso\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C477B2A-C353-4F63-9BD5-EC5EFB9463CE}|ControleCurso\\ControleCurso.csproj|solutionrelative:controlecurso\\controllers\\cursocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9C477B2A-C353-4F63-9BD5-EC5EFB9463CE}|ControleCurso\\ControleCurso.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\controlecursoprojeto\\controlecurso\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9C477B2A-C353-4F63-9BD5-EC5EFB9463CE}|ControleCurso\\ControleCurso.csproj|solutionrelative:controlecurso\\views\\aluno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C477B2A-C353-4F63-9BD5-EC5EFB9463CE}|ControleCurso\\ControleCurso.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\controlecursoprojeto\\controlecurso\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C477B2A-C353-4F63-9BD5-EC5EFB9463CE}|ControleCurso\\ControleCurso.csproj|solutionrelative:controlecurso\\controllers\\alunocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C477B2A-C353-4F63-9BD5-EC5EFB9463CE}|ControleCurso\\ControleCurso.csproj|c:\\users\\y.pereira.vargas\\desktop\\decola-tech\\controlecursoprojeto\\controlecurso\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C477B2A-C353-4F63-9BD5-EC5EFB9463CE}|ControleCurso\\ControleCurso.csproj|solutionrelative:controlecurso\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,26 +24,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ControleCursoProjeto\\ControleCurso\\Views\\Curso\\Index.cshtml",
-              "RelativeDocumentMoniker": "ControleCurso\\Views\\Curso\\Index.cshtml",
-              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ControleCursoProjeto\\ControleCurso\\Views\\Curso\\Index.cshtml",
-              "RelativeToolTip": "ControleCurso\\Views\\Curso\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ControleCursoProjeto\\ControleCurso\\Views\\Aluno\\Index.cshtml",
+              "RelativeDocumentMoniker": "ControleCurso\\Views\\Aluno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ControleCursoProjeto\\ControleCurso\\Views\\Aluno\\Index.cshtml",
+              "RelativeToolTip": "ControleCurso\\Views\\Aluno\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvw0AAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-26T19:21:18.889Z",
+              "WhenOpened": "2024-04-28T14:23:34.711Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CursoController.cs",
-              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ControleCursoProjeto\\ControleCurso\\Controllers\\CursoController.cs",
-              "RelativeDocumentMoniker": "ControleCurso\\Controllers\\CursoController.cs",
-              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ControleCursoProjeto\\ControleCurso\\Controllers\\CursoController.cs",
-              "RelativeToolTip": "ControleCurso\\Controllers\\CursoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T19:21:03.769Z"
             },
             {
               "$type": "Document",
@@ -65,33 +41,10 @@
               "RelativeDocumentMoniker": "ControleCurso\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ControleCursoProjeto\\ControleCurso\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ControleCurso\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAOAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB4AAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-26T19:16:57.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ControleCursoProjeto\\ControleCurso\\Views\\Aluno\\Index.cshtml",
-              "RelativeDocumentMoniker": "ControleCurso\\Views\\Aluno\\Index.cshtml",
-              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ControleCursoProjeto\\ControleCurso\\Views\\Aluno\\Index.cshtml",
-              "RelativeToolTip": "ControleCurso\\Views\\Aluno\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-26T19:05:46.933Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AlunoController.cs",
-              "DocumentMoniker": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ControleCursoProjeto\\ControleCurso\\Controllers\\AlunoController.cs",
-              "RelativeDocumentMoniker": "ControleCurso\\Controllers\\AlunoController.cs",
-              "ToolTip": "C:\\Users\\y.pereira.vargas\\Desktop\\Decola-Tech\\ControleCursoProjeto\\ControleCurso\\Controllers\\AlunoController.cs",
-              "RelativeToolTip": "ControleCurso\\Controllers\\AlunoController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-26T19:05:28.104Z"
+              "WhenOpened": "2024-04-26T19:16:57.18Z",
+              "EditorCaption": ""
             }
           ]
         }

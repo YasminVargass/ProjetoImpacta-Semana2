@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ControleCurso")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67d5cd1253d7f1d23c44e8696a2ebb8c859f111b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ControleCurso")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ControleCurso")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -28,3 +28,4 @@ C:\Users\y.pereira.vargas\Desktop\Decola-Tech\ControleCursoProjeto\ControleCurso
 C:\Users\y.pereira.vargas\Desktop\Decola-Tech\ControleCursoProjeto\ControleCurso\obj\Debug\net8.0\ControleCurso.pdb
 C:\Users\y.pereira.vargas\Desktop\Decola-Tech\ControleCursoProjeto\ControleCurso\obj\Debug\net8.0\ControleCurso.genruntimeconfig.cache
 C:\Users\y.pereira.vargas\Desktop\Decola-Tech\ControleCursoProjeto\ControleCurso\obj\Debug\net8.0\ref\ControleCurso.dll
+C:\Users\y.pereira.vargas\Desktop\Decola-Tech\ControleCursoProjeto\ControleCurso\obj\Debug\net8.0\ControleCurso.sourcelink.json
